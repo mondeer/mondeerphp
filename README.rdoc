@@ -1,0 +1,2 @@
+PHP boiler plate:
+this repo has php functionalities including registering new user, account validation, login, fusionchart integration. remember to change db config
